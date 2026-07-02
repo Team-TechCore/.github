@@ -1,6 +1,6 @@
 # Team TechCore
 
-Welcome to the official GitHub organization of **Team TechCore**.
+Welcome to the official GitHub of **Team TechCore**.
 
 We are a team of Computer Science and Engineering students focused on learning, building, researching, and improving real-world software solutions. Our work includes academic projects, research-based development, AI-powered systems, web applications, software tools, IoT projects, robotics, and collaborative development experiments.
 
