@@ -21,7 +21,7 @@ We are Computer Science and Engineering students of **United International Unive
 | Name | Role |
 |---|---|
 | Mahadi Hasan | Team Lead |
-| Nafiz Abdullah | Manager |
+| [Nafiz Abdullah](https://github.com/nafizabdullah09) | Manager |
 
 Additional team members will be added later.
 
