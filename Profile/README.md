@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub organization of **Team TechCore**.
 
-We are a team of Computer Science and Engineering students focused on learning, building, researching, and improving real-world software solutions. Our work includes academic projects, research-based development, web applications, AI-powered systems, software tools, IoT projects, robotics, and collaborative development experiments.
+We are a team of Computer Science and Engineering students focused on learning, building, researching, and improving real-world software solutions. Our work includes academic projects, research-based development, AI-powered systems, web applications, software tools, IoT projects, robotics, and collaborative development experiments.
 
 ## About Us
 
@@ -31,24 +31,27 @@ Additional team members will be added later.
 
 ## What We Work On
 
-- Web application development
-- Software engineering projects
+- Research-focused and innovation-driven projects
 - Academic and research-based projects
-- AI-powered applications and intelligent systems
+- Artificial Intelligence and intelligent systems
 - Large Language Models (LLMs)
 - Small Language Models (SLMs)
 - Retrieval-Augmented Generation (RAG)
+- AI-powered applications
+- Web application development
+- Software engineering projects
+- Software tools and utilities
+- Collaborative open-source-style development
+- Problem-solving and programming practice
 - IoT-based systems
 - Robotics and automation projects
-- Problem-solving and programming practice
-- Collaborative open-source-style development
 - Project documentation and version control
 
 ## Our Goals
 
-- Build practical and useful software projects
 - Work on research-focused and innovation-driven projects
 - Explore AI, LLMs, SLMs, RAG, IoT, and robotics
+- Build practical and useful software projects
 - Improve our technical and teamwork skills
 - Maintain clean, readable, and well-documented code
 - Learn modern development tools and workflows
