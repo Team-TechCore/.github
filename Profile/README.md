@@ -22,7 +22,7 @@ We are Computer Science and Engineering students of **United International Unive
 
 | Name | Role |
 |---|---|
-| [Mahadi Hasan](https://github.com/mahadi-493) | Team Lead & Founder |
+| [Mahadi Hasan](https://github.com/mahadi-493) | Founder & Team Lead |
 | [Nafiz Abdullah](https://github.com/nafizabdullah09) | Manager & Full Stack Developer |
 | [Shakib Alam Bhuiyan](https://github.com/shakibalam2503) | Backend Developer & AI Engineer |
 | [Shoeab Al Noor Shafi](https://github.com/Sh0eab) | Full Stack Developer |
